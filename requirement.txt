@@ -1,0 +1,6 @@
+langchain>=0.2
+langchain-community>=0.2
+langchain-google-genai>=0.1
+chromadb>=0.5
+pypdf
+python-dotenv
